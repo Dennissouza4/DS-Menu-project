@@ -14,9 +14,9 @@ GameManager.Games = {
         Repository = "",
     },
 
-    [456] = {
+    [605887098] = {
         Name = "CarDealershipTycoon",
-        Repository = "",
+        Repository = "CarDealershipTycoon/main.lua",
     },
 
     [789] = {
